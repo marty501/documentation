@@ -1,0 +1,7 @@
+
+Write function to display the prime numbers below 1000
+Write a function to count the number of bits in the number 5 (2) C#
+Powersets
+Unix shell: find first 10 files on a dir and output
+SQL Group by question
+
